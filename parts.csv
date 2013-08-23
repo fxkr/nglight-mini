@@ -1,0 +1,7 @@
+Part,Quantity,Value,Type,Link
+C1,1,100nF,SMD 0805 Cap,
+C2,1,10uF,,https://secure.reichelt.de/?ARTICLE=31906
+I2C,1,Molex 53261-04,Molex Picoblade Conn Header 4Pos 1.25MM,http://www.digikey.de/product-detail/de/0532610471/WM7622CT-ND/699109?cur=USD
+"Q1, Q2, Q3",3,Rohm QS6K1,Dual N-Ch MOSFET,http://www.digikey.com/product-detail/en/QS6K1TR/QS6K1CT-ND/721551?cur=USD
+"RN1, RN2",2,240R,Resistor Array,http://www.digikey.com/product-detail/en/TC164-JR-07220RL/TC164J-220CT-ND/1005375?cur=USD
+"RN3, RN4",2,18K,Resistor Array,
