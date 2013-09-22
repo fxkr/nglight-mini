@@ -1826,6 +1826,14 @@ Please make sure your boards conform to these design rules.</description>
 <contactref element="RN4" pad="7"/>
 <via x="13.0175" y="12.065" extent="1-16" drill="0.3302"/>
 <via x="12.7" y="4.7625" extent="1-16" drill="0.3302"/>
+<contactref element="RN2" pad="3"/>
+<contactref element="RN2" pad="4"/>
+<contactref element="RN4" pad="6"/>
+<contactref element="RN4" pad="5"/>
+<contactref element="RN2" pad="5"/>
+<contactref element="RN4" pad="4"/>
+<contactref element="RN2" pad="6"/>
+<contactref element="RN4" pad="3"/>
 </signal>
 <signal name="N$2">
 <contactref element="Q1" pad="3"/>
