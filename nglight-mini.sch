@@ -11085,8 +11085,8 @@ Source: http://products.nichicon.co.jp/en/pdf/XJA043/e-ud.pdf</description>
 <part name="LED4_PWR" library="wirepad" deviceset="WIREPAD" device="SMD5-1,8"/>
 <part name="LED1_PWR" library="wirepad" deviceset="WIREPAD" device="SMD5-1,8"/>
 <part name="LED2_PWR" library="wirepad" deviceset="WIREPAD" device="SMD5-1,8"/>
-<part name="C1" library="rcl" deviceset="C-EU" device="C0805"/>
-<part name="C2" library="rcl" deviceset="CPOL-EU" device="UD-5X5,8"/>
+<part name="C1" library="rcl" deviceset="C-EU" device="C0805" value="100n"/>
+<part name="C2" library="rcl" deviceset="CPOL-EU" device="UD-5X5,8" value="10uF"/>
 <part name="GND6" library="supply1" deviceset="GND" device=""/>
 <part name="P+3" library="supply1" deviceset="+5V" device=""/>
 <part name="P+4" library="supply1" deviceset="+12V" device=""/>
